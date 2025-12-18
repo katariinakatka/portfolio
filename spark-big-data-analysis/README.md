@@ -59,7 +59,7 @@ municipalities using postal code areas as distinct geographic units.
 
 
 
-## Project 3: Spatial Analysis – Closest Building to Average Location
+## Project 3: Closest Building to Average Location (Parquet data from project 2)
 
 ### Overview
 This analysis focuses on spatial data and distance calculations using building
