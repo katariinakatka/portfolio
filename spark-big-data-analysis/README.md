@@ -1,4 +1,4 @@
-# Python Data Analysis Projects
+# Python and Apache Spark Data Analysis Projects
 
 This project consists of multiple data analysis tasks based on real-world
 datasets. The focus is on data loading, cleaning, aggregation, and analytical
