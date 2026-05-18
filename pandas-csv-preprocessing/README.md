@@ -32,3 +32,5 @@ directory as the script, then run:
     python autodata.py
 
 Output: `autodata.db`
+
+File `TieliikenneAvoinData_31_12_2025.csv` can be found at https://tieto.traficom.fi/fi/avoin-data#accordion-63420 in a zip-file "Ajoneuvorekisteri.zip"
